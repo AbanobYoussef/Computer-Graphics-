@@ -1,0 +1,9 @@
+E:\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+E:\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+E:\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.Form1.resources
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.pdb

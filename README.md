@@ -1,4 +1,4 @@
-This program contain popular ships drawing algorithms written in c#
+This program contains popular ships drawing algorithms written in c#
 [
   DDA Algorithm,
   Bresenham line Algorithm,
